@@ -1,6 +1,6 @@
 {
-    "name": "LibreTV",
-    "short_name": "LibreTV",
+    "name": "中国电影ZGDY.CN",
+    "short_name": "中国电影ZGDY.CN",
     "description": "免费在线视频搜索与观看平台",
     "start_url": ".",
     "display": "standalone",
@@ -9,10 +9,10 @@
     "apple-mobile-web-app-capable": "yes",
     "apple-mobile-web-app-status-bar-style": "black",
     "icons": [
-      {
-        "src": "image/logo-black.png",
-        "sizes": "512x512",
-        "type": "image/png"
-      }
+        {
+            "src": "image/logo-black.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
     ]
-  }
+}
