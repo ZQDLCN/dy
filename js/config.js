@@ -18,7 +18,7 @@ const SITE_CONFIG = {
     logo: 'image/logo.png',
     version: '1.0.3'
 };
-
+if (localStorage.getItem('doubanEnabled') === null) { localStorage.setItem('doubanEnabled', 'true'); }
 // API站点配置
 const API_SITES = {
     dyttzy: {
